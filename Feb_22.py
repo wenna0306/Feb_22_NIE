@@ -20,7 +20,7 @@ st.set_page_config(page_title='iSMM Dashboard',
                     initial_sidebar_state='collapsed')
 
 #-----------------------------------------------User Authentication-----------------------------------------------
-names = ['wenna', 'Mr.Loh']
+names = ['wenna', 'Mr.Loh', 'Jack']
 usernames = ['wenna0306@gmail.com', 'booninn.loh@surbanajurong.com', 'jack.ngcc@surbanajurong.com']
 passwords = ['password', 'password', 'password']
 
