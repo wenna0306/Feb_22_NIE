@@ -21,8 +21,8 @@ st.set_page_config(page_title='iSMM Dashboard',
 
 #-----------------------------------------------User Authentication-----------------------------------------------
 names = ['wenna', 'Mr.Loh']
-usernames = ['wenna0306@gmail.com', 'booninn.loh@surbanajurong.com']
-passwords = ['password', 'password']
+usernames = ['wenna0306@gmail.com', 'booninn.loh@surbanajurong.com', 'jack.ngcc@surbanajurong.com']
+passwords = ['password', 'password', 'password']
 
 hashed_passwords = stauth.hasher(passwords).generate()
 
